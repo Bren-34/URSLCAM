@@ -1,0 +1,9 @@
+python-telegram-bot>=21,<23
+python-dotenv
+requests
+openai>=1.30
+neo4j>=5.20
+daytona
+playwright
+beautifulsoup4
+pandas
